@@ -23,8 +23,16 @@ A desktop application built with Python and Tkinter that simulates various types
   - Responsive status updates
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 
+## 📸 Screenshots
 
-## Screenshots
+### 🟢 Image1
+![Screenshot](/Screenshot1.png)
+
+### 🔴 Image2
+![Screenshot](/Screenshot2.png)
+
+### 🟡 Image3
+![Screenshot](/Screenshot3.png)
 
 
 ## Installation
